@@ -1,0 +1,6 @@
+cmd
+change directory to location of files
+run
+jar cfe NameOfJarToCreate NameOfMainClass FilesToAdd
+Ex.
+jar cfe Sudoku.jar Sudoku *
